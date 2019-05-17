@@ -1,2 +1,2 @@
 # aws-cloud-formation
-All cloudformation templete scripts
+All cloudformation template scripts
